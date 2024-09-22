@@ -1,0 +1,19 @@
+a=1.1
+print(a)
+a1=9
+b="lav"
+c=None
+d=True
+print(d)
+print (b)
+print(a+a1)
+print("the type of a is",type(a))
+print("the type of a is",type(b))
+print("the type of a is",type(c))
+list1=[8,2.3,[-4,5],["apple","banana"]]
+print(list1)
+tuple1=(("parrot","sparrow"),("lion","tiger"))
+print(tuple1)
+
+dict1={"name":"lav","age":20,"canVote":True}
+print(dict1)
