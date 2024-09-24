@@ -1,0 +1,15 @@
+name="lav"
+friend='rohan'
+anotherFriend='dev'
+apple='''he said,
+Hey I am good
+
+"I want to eat a apple '''
+
+print("hello,"+name)
+# print(apple )
+print(name[0])
+print(name[1])
+print("Lets use a forloop\n")
+for character in apple:
+    print(character)
