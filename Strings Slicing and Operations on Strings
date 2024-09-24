@@ -1,0 +1,17 @@
+name ="lav,Saxena"
+print(len(name))
+
+fruit="Mango"
+mangoLen=len(fruit)
+print(mangoLen)
+# print(fruit[0:4]) # including 0
+# print(fruit[1:4])  # including 1
+# print(fruit[:5])
+# print(fruit[0:-3])
+print(fruit[-1:len(fruit)-3])
+print(fruit[-3:-1])
+
+# Quick Quiz
+nm="Lav,saxena"
+print(nm[-4:-2]) 
+
